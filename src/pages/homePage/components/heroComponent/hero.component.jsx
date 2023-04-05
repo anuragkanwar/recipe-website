@@ -8,7 +8,7 @@ const HeroComponent = () => {
 	<div className="hero-title">
 	  <div className="hero-title-btn">
 		<Link to={"/"} className="circle font-p"><img className="long-arrow"
-													  src="/public/svg/arrow_black.svg"
+													  src="/svg/arrow_black.svg"
 													  alt="long arrow to random recepi"/>Get <br/>Random Recipe</Link>
 	  </div>
 	  <h1>
