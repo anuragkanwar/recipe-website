@@ -7,7 +7,8 @@ const HeroComponent = () => {
   return (<HeroComponentStyle>
 	<div className="hero-title">
 	  <div className="hero-title-btn">
-		<Link to={"/"} className="circle font-p"><img className="long-arrow" src="src/assets/svg/arrow_black.svg"
+		<Link to={"/"} className="circle font-p"><img className="long-arrow"
+													  src="/src/assets/svg/arrow_black.svg"
 													  alt="long arrow to random recepi"/>Get <br/>Random Recipe</Link>
 	  </div>
 	  <h1>
