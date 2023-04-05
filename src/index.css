@@ -45,12 +45,12 @@ button, select {
 
 @font-face {
     font-family: "Elgoc";
-    src: url("src/assets/fonts/Elgoc/Elgoc-Thin.otf") format("opentype");
+    src: url("./assets/fonts/Elgoc/Elgoc-Thin.otf") format("opentype");
 }
 
 @font-face {
     font-family: "Monalisa";
-    src: url("src/assets/fonts/Monalisa/monalisa-serif.ttf") format("truetype");
+    src: url("./assets/fonts/Monalisa/monalisa-serif.ttf") format("truetype");
 }
 
 body {

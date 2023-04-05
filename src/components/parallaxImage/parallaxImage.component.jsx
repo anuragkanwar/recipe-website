@@ -1,4 +1,4 @@
-import React, {useLayoutEffect, useRef} from 'react'
+import React from 'react'
 import {ParallaxImageContainer} from "./parallaxImage.styles.jsx";
 import {gsap} from "gsap";
 import {ScrollTrigger} from "gsap/ScrollTrigger";

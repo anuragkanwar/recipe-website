@@ -1,6 +1,6 @@
 import React from 'react'
 import {NavigationBarStyle} from "./navbar.styles.jsx";
-import {Link, NavLink} from "react-router-dom";
+import {NavLink} from "react-router-dom";
 
 const NavbarComponent = () => {
   return (<NavigationBarStyle>
